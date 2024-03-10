@@ -11,7 +11,12 @@ The video recording as well as the exposure settings are controlled by two switc
 Under normal operation, no RPI experience is needed but with some basic computer skills many more features became available  
 in addition to the basic preview and record.  
 Here is a test clip.  
-https://www.youtube.com/watch?v=jdsWr6TZmxQ  
-See the encloser manual for modification instructions and the user controls (manual will be available shortly).
+https://drive.google.com/file/d/1ROwhN-cHI5VSGOp8pcDCmuaRnaNI-lIl/view?usp=sharing 
+Outstandidng items:  
+Check sound  
+LED lamp mount  
+Camera mount 
+RPI mount  
+See the enclosed manual for modification instructions and the user controls (manual will be available shortly).  
 For mor infor please contact   
 sjelavic123@gmail.com  
