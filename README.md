@@ -9,6 +9,9 @@ The modification kit uses the state of the art components and included the RPI4 
 ![elmo16cl_light_and_caamera](https://github.com/vintagefilmography/ELMO_16CL/assets/48537944/23f78601-7669-4b81-b510-9a5331c04f99)  
 
 The combined video and audio are available over the HDMI cable which can be connected to the HDMI monitor and or an external video recorder.  
+Such as:  
+https://www.amazon.com/TreasLin-Recorder-One-Click-Recording-Compatible/dp/B08LPSG8CY/  
+
 For users that want to record to a VCR there is a converter that converts the HDMI to Composite NTSC to PAL video.  
 https://www.amazon.com/Converter-Composite-Adapter-Supports-Chromecast/dp/B08CH91V1W/
 The real time video plus audio can also be  recorded to the internal 256GB SD micro card.  
